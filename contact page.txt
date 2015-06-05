@@ -1,0 +1,125 @@
+<form action="http://legistar.council.nyc.gov/message.aspx" name="ContactMember" method="post" style="MARGIN: 0px"><!--  these are the critical change elements  --><input name="source" type="hidden" value="Web Form" /> <input name="Sendto" type="hidden" value="cstat45@council.nyc.ny.us" /> <input name="author" type="hidden" value="Council Member Laurie Cumbo" /> <input name="authorwebpage" type="hidden" value="http://council.nyc.gov/d45/html/members/home.shtml" /> <!--  end critical critical change elements  --><input name="returnto" type="hidden" value="thanks.cfm" /> <!--  end critical critical change elements  -->
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td colspan="2"><span class="red_bold">*</span> indicates a required field<br />
+<script type="text/JavaScript" language="JavaScript"><!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+var formelements = 'Title<br /><INPUT NAME=\"Title\" type=\"text\" value=\"\" SIZE=35 maxlength=190><br />Organization<br /><INPUT NAME=\"organization\" type=\"text\" value=\"\" SIZE=35 maxlength=190>';
+var formelements = '<table cellspacing="0" cellpadding="0" border="0"><tr><td class="label" width="180"><label for="org_title">Title:</label></td><td class="field" width="300"><input name="Title" id="org_title" class="formfield" type="text" style="width:299px;"></td></tr><tr><td class="label"><label for="org_name">Organization:</label></td><td class="field"><input name="organization" id="org_name" type="text" class="formfield" style="width:299px;"></td></tr></table>';
+function MM_setTextOfLayer(objId,x,newText) { //v9.0
+  with (document) if (getElementById && ((obj=getElementById(objId))!=null))
+    with (obj) innerHTML = unescape(newText);
+}
+// --></script>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="form_header">Your Name</td>
+</tr>
+<tr>
+<td width="180" class="label"><label for="name_prefix"><b>*</b>Prefix:</label></td>
+<td width="300" class="field">
+<div class="select-container_125"><select name="prefix" id="name_prefix"> <option value="M.">M.</option> <option value="Mr.">Mr.</option> <option value="Mrs.">Mrs.</option> <option value="Ms.">Ms.</option> <option value="Dr.">Dr.</option> <option value="Dr.">Hon.</option> <option calue="Commissioner">Commissioner</option> <option calue="Rabbi">Rabbi</option></select></div>
+</td>
+</tr>
+<tr>
+<td class="label"><label for="first_name"><b>*</b>First Name:</label></td>
+<td class="field"><input name="first_name" class="formfield" id="first_name" style="width: 299px;" /></td>
+</tr>
+<tr>
+<td class="label"><label for="middle">Middle:</label></td>
+<td class="field"><input name="middle_name" class="formfield" id="middle_name" style="width: 80px;" /></td>
+</tr>
+<tr>
+<td class="label"><label for="first_name"><b>*</b>Last Name:</label></td>
+<td class="field"><input name="last_name" class="formfield" id="last_name" style="width: 299px;" /></td>
+</tr>
+<tr>
+<td width="180" class="label"><label for="name_suffix">Suffix:</label></td>
+<td class="field">
+<div class="select-container_80"><select name="Suffix" id="name_suffix"> <option></option> <option value="Jr.">Jr.</option> <option value="Sr.">Sr.</option> <option value="Esq.">Esq.</option></select></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="form_text"><input name="radio" type="radio" value="writingfrom" onclick="MM_setTextOfLayer('myDiv','', '')" class="radio" id="writingfrom" /> <label for="writingfrom">I am writing on my behalf</label></td>
+</tr>
+<tr>
+<td colspan="2" class="form_text"><input name="radio" type="radio" value="writingfrom" onclick="MM_setTextOfLayer('myDiv','',formelements)" class="radio" id="writingfrom2" /> <label for="writingfrom2">I am writing on behalf of an organization</label> <br />
+<div id="myDiv" style="PADDING-TOP: 5px"></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="form_header">Your Contact Info</td>
+</tr>
+<tr>
+<td class="label"><label for="street_address"><b>*</b>Street Address:</label></td>
+<td class="field"><input name="street_address" class="formfield" id="street_address" style="width: 299px;" /></td>
+</tr>
+<tr>
+<td class="label"><label for="first_name"><b>*</b>City:</label></td>
+<td class="field"><input name="city" class="formfield" id="city" style="width: 299px;" /></td>
+</tr>
+<tr>
+<td class="label"><label for="state"><b>*</b>State:</label></td>
+<td class="field">
+<div class="select-container_125"><select name="state" id="state"> <option value="New York=NY">New York</option> <option value="Alaska=AK">Alaska</option> <option value="Alabama=AL">Alabama</option> <option value="Arkansas=AR">Arkansas</option> <option value="America Samoa=AS">America Samoa</option> <option value="Arizona=AZ">Arizona</option> <option value="California=CA">California</option> <option value="Colorado=CO">Colorado</option> <option value="Connecticut=CT">Connecticut</option> <option value="D.C.=DC">D.C.</option> <option value="Delaware=DE">Delaware</option> <option value="Florida=FL">Florida</option> <option value="Georgia=GA">Georgia</option> <option value="Guam=GU">Guam</option> <option value="Hawaii=HI">Hawaii</option> <option value="Iowa=IA">Iowa</option> <option value="Idaho=ID">Idaho</option> <option value="Illinois=IL">Illinois</option> <option value="Indiana=IN">Indiana</option> <option value="Kansas=KS">Kansas</option> <option value="Kentucky=KY">Kentucky</option> <option value="Louisiana=LA">Louisiana</option> <option value="Massachusetts=MA">Massachusetts</option> <option value="Maryland=MD">Maryland</option> <option value="Maine=ME">Maine</option> <option value="Michigan=MI">Michigan</option> <option value="Minnesota=MN">Minnesota</option> <option value="Missouri=MO">Missouri</option> <option value="Mississippi=MS">Mississippi</option> <option value="Montana=MT">Montana</option> <option value="North Carolina=NC">North Carolina</option> <option value="North Dakota=ND">North Dakota</option> <option value="Nebraska=NE">Nebraska</option> <option value="New Hampshire=NH">New Hampshire</option> <option value="New Jersey=NJ">New Jersey</option> <option value="New Mexico=NM">New Mexico</option> <option value="Nevada=NV">Nevada</option> <option value="New York=NY">New York</option> <option value="Ohio=OH">Ohio</option> <option value="Oklahoma=OK">Oklahoma</option> <option value="Oregon=OR">Oregon</option> <option value="Pennsylvania=PA">Pennsylvania</option> <option value="Puerto Rico=PR">Puerto Rico</option> <option value="Rhode Island=RI">Rhode Island</option> <option value="South Carolina=SC">South Carolina</option> <option value="South Dakota=SD">South Dakota</option> <option value="Tennessee=TN">Tennessee</option> <option value="Trust Territory=TT">Trust Territory</option> <option value="Texas=TX">Texas</option> <option value="Utah=UT">Utah</option> <option value="Virginia=VA">Virginia</option> <option value="Virgin Islands=VI">Virgin Islands</option> <option value="Vermont=VT">Vermont</option> <option value="Washington=WA">Washington</option> <option value="Wisconsin=WI">Wisconsin</option> <option value="West Virginia=WV">West Virginia</option> <option value="Wyoming=WY">Wyoming</option> <option value="Foreign Correspondence=FC">- - Not US - -</option></select></div>
+</td>
+</tr>
+<tr>
+<td class="label"><label for="zip_5"><b>*</b>ZIP Code:</label></td>
+<td class="field"><input name="zip_5" maxlength="5" class="formfield" id="zip_5" style="width: 80px;" /></td>
+</tr>
+<tr>
+<td class="label"><label for="phone"><b>*</b>Phone:</label></td>
+<td class="field"><input name="phone" class="formfield" id="phone" style="width: 299px;" /></td>
+</tr>
+<tr>
+<td class="label"><label for="email"><b>*</b>Email:</label></td>
+<td class="field"><input name="email" class="formfield" id="email" style="width: 299px;" /></td>
+</tr>
+<tr>
+<td colspan="2" class="form_header">Message Details</td>
+</tr>
+<tr>
+<td width="180" class="label"><label for="issue"><b>*</b>General Issue:</label></td>
+<td width="300" class="field">
+<div class="select-container_200"><select name="Issue" id="issue"> <option value="Aging">Aging</option> <option value="Consumer Complaints">Consumer Complaints</option> <option value="Cultural Affairs">Cultural Affairs</option> <option value="Economy/Jobs">Economy/Jobs</option> <option value="Education">Education</option> <option value="Environment">Environment</option> <option value="Finance">Finance</option> <option value="General Welfare">General Welfare</option> <option value="Governmental Operations ">Government Operations</option> <option value="Health">Health</option> <option value="Housing and Buildings">Housing and Buildings</option> <option value="Immigration">Immigration</option> <option value="Land Use and Zoning">Land Use and Zoning</option> <option value="Parks">Parks</option> <option value="Public Safety">Public Safety</option> <option value="Sanitation">Sanitation</option> <option value="Transportation">Transportation</option> <option value="Utilities">Utilities</option> <option value="Youth Services">Youth</option></select></div>
+</td>
+</tr>
+<tr>
+<td class="label"><label for="message"><b>*</b>Message:</label></td>
+<td class="field"><textarea name="message" class="formfield" id="message" style="width: 299px; height: 125px;"></textarea></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td class="form_button"><input name="submit" type="submit" value="Submit Form" onclick="MM_validateForm('prefix','','R','first_name','','R','last_name','','R','street_address','','R','city','','R','zip_5','','R','phone','','R','email','','R','message','','R');return document.MM_returnValue" class="orange_button" /></td>
+</tr>
+</tbody>
+</table>
+</form>
+<p>&nbsp;</p>

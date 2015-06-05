@@ -1,0 +1,219 @@
+<span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>
+<p>
+<table width="100%" border="0" style="TEXT-ALIGN: left">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">AYAKA OMOTO</span></span></b></span></span></font></span></strong></span></span></strong></span></span></span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></p>
+<p><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></font></span><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><span><span style="font-family:'Arial';color:black;font-size:18pt"></span></span></font></span></p>
+<p><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></span></span></font></span><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><img height="132" width="102" src="../../images/Photos/Interns/Ayaka Omoto.jpg" style="FLOAT: left" /></span></span></span></span></font></span></p>
+</span></span></b></span></span></b></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>New York University</p>
+<p>Major: English/Pre-Law</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</p>
+<p>
+<table width="100%" border="0">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>DANIEL K. OSEI</strong></span></span></span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><img height="119" width="102" src="../../images/Photos/Interns/Daniel K. Osei.JPG" style="float: left;" /></span></span></b></p>
+</span></span></b></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>Brooklyn College/CUNY</p>
+<p>Major: Masters of Urban Policy</p>
+<p>Degree: BA/Sociology (Hunter College)</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</p>
+<p>
+<table width="100%" border="0">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><span><span style="FONT-FAMILY: 'Arial'; COLOR: black"><strong>JOHNNY DEROGENE</strong></span></span></p>
+</th>
+</tr>
+<tr>
+<th src="/images/Photos/Interns/Daniel K. Osei.JPG" scope="row" width="107" style="float: left;"><img height="119" width="102" src="../../images/Photos/Interns/Johnny Derogene photo.JPG" /></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p><span style="FONT-FAMILY: 'Arial','sans-serif';  FONT-SIZE: 10pt">John Jay College of Criminal Justice</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif';  FONT-SIZE: 10pt">Major: Political Science B.A; with a focus in Comparative International Politics and Human Rights</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif';  FONT-SIZE: 10pt">Minor: Philosophy</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif';  FONT-SIZE: 10pt">Degree: Associate in Arts in Criminal Justice</span></p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</p>
+<p>
+<table width="100%" border="0">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">SADIK JAFFAR</span></span></b>&nbsp;</span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><img height="119" width="102" src="../../images/Photos/Interns/SADIK JAFFAR.PNG" style="float: left;" /></span></span></b></p>
+</span></span></b></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>Pace University</p>
+<p>Major: Double Major in Political Science and Business Management</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</p>
+<div>
+<div>
+<div>
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong></strong></span></span></p>
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></p>
+<p><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></p>
+<span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p>
+<table width="100%" border="0" style="TEXT-ALIGN: left">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>SHIVAM P. JUMANI</strong></span></span></strong></span></span></span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></p>
+<p><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></font></span><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><span><span style="font-family:'Arial';color:black;font-size:18pt"><img height="119" width="102" src="../../images/Photos/Interns/SHIVAM.jpg" style="FLOAT: left" /></span></span></font></span></p>
+</span></span></b></span></span></b></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>New York University</p>
+<p>Major: Urban Design &amp; Architecture Studies</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</p>
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>
+<table width="100%" border="0">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>TAMAR NAFTALY</strong><span><span style="font-family:'Arial';color:black;font-size:x18pt"> </span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span>
+<p><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><img height="119" width="102" src="../../images/Photos/Interns/Tamar.jpg" style="FLOAT: left" /></span></span></b></p>
+</th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>Pace University</p>
+<p>Major: MPA, Public Administration with a focus in Government</p>
+<p>Degrees: Masters in Professional Studies, MPS (Manhattanville College)</p>
+<p>BA, Anthropology (SUNY/Binghamton)</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</strong></span></span><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong></strong></span></span></p>
+<p>
+<table width="100%" border="0">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>YUAN TAO</strong></span></span></strong></span></span></strong></span></span></span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></p>
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><img height="119" width="102" src="../../images/Photos/Interns/Yuan Tao.jpg" style="float: left;" /></span></span></b></p>
+</span></span></b></span></span></b></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>Pace University</p>
+<p>Major: Master of Science in Information Systems</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+</p>
+</span></span></div>
+</div>
+</div>
+</strong></span></span><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<table width="100%" border="0">
+<tbody>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong><span style="font-family:'Arial';font-size:x18pt"><font color="#000000"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><span><span style="font-family:'Arial';color:black;font-size:x18pt"><strong>ZHENG WANG</strong></span></span></span></span></font></span></strong></span></span></strong></span></span></span></span></span></span></p>
+</th>
+</tr>
+<tr>
+<th scope="row" width="107"><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"><b><span><span style="font-family:'Arial';color:black;font-size:x18pt">
+<p><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span><b><span><span style="font-family:'Arial';color:black;font-size:x18pt"></span></span></b></p>
+<p><img height="131" width="109" src="../../images/Photos/Interns/Zheng.JPG" style="float: left;" /></p>
+</span></span></b></span></span></b></th>
+<td valign="top" style="TEXT-ALIGN: left"><span style="font-family:'Arial','sans-serif';color:black;font-size:x11pt">
+<p>Pace University</p>
+<p>Major: Master of Science in Financial Management</p>
+</span></td>
+</tr>
+<tr>
+<th scope="row" colspan="2">
+<p style="TEXT-ALIGN: left"><strong></strong>&nbsp;</p>
+</th>
+</tr>
+</tbody>
+</table>
+</span></span></span></span></span>
